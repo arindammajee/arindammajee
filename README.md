@@ -33,24 +33,25 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 ## Contact Me
 <!-- SOCIAL -->
 [![LinkedIn-Sandip-Dutta][linkedin-logo]][linkedin-url]  <!-- Linked In -->
-[![Facebook-Sandip-Dutta][facebook-logo]][facebook-url]  <!-- Facebook -->
-[![Hackerrank-Sandip-Dutta][hackerrank-logo]][hackerrank-url] <!--Hackerrank-->
-[![Kaggle][kaggle-logo]][kaggle-url] <!--Kaggle-->
+<!-- [![Facebook-Sandip-Dutta][facebook-logo]][facebook-url] --> <!-- Facebook -->
+<!-- [![Hackerrank-Sandip-Dutta][hackerrank-logo]][hackerrank-url] --> <!--Hackerrank-->
+<!-- [![Kaggle][kaggle-logo]][kaggle-url] --> <!--Kaggle-->
 <!-- ### END OF CONTENT ### -->
 
 
 
 [linkedin-logo]:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]:https://www.linkedin.com/in/dutta-sd/
+[linkedin-url]:https://www.linkedin.com/in/arindammajee/
 
 [facebook-logo]:https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-[facebook-url]:https://www.facebook.com/profile.php?id=100039020774484
+[facebook-url]:https://www.facebook.com/profile.php?id=100039020774484  
 
 [hackerrank-logo]:https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 [hackerrank-url]:https://www.hackerrank.com/Sandip11100
 
 [kaggle-logo]:https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
 [kaggle-url]:https://www.kaggle.com/duttasd28
+
 
 <!-- Python and Machine Learning Stack -->
 [python-logo]:https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white
