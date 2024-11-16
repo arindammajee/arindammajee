@@ -3,15 +3,16 @@ _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## About Me
 
-- **Current Position**: Currently interning at IIT Kharagpur on Computer Vision and Machine Learning 👨🏽‍💻
+- **Current Position**: Currently working as a Software Development Engineer (SDE-I) at Amazon India, Banaglore. 👨🏽‍💻
 - **Previous Experience**:
   - Completed a software development internship at Amazon India. 🚀
-  - Interned at CMATER Lab, Jadavpur University, working on Sentiment Analysis. 💬
-  - Interned at AI Lab, Jadavpur University, focusing on Machine Learning. 🤖
-  - Interned at MLRG, ISI Kolkata, specializing in Biomedical Image Processing. 🏥 🖥️
-- **Education**: Recent Electronics graduate from Jadavpur University (B.E. 2019-2023) 🎓
-- **Programming Languages**: Proficient in Java, Python, C++. Started learning GoLang.
+  - Worked as a part-time Research Assistant at CMATER Lab, Jadavpur University, on Medical Imaging Analysis and Evolutionary Algorithms. 💬
+  - Worked as a part-time Research Assistan at AI Lab, Jadavpur University, focusing on Machine Learning. 🤖
+  - Worked as a full time Research Assistant at MLRG, ISI Kolkata and TCG CREST, specializing in Biomedical Image Processing. 🏥 🖥️
+- **Education**: Graduated with Bachelor of Engineering (B.E.) with First Class Honours in Electronics graduate from Jadavpur University (2019-2023) 🎓
+- **Programming Languages**: Proficient in Java, JavaScript, Python, C, C++, React. Started learning GoLang.
 - **Frameworks**: Experienced in developing applications using Spring Boot 🌼 and other Spring environment frameworks. 🌸
+- **ML Frameworks**: Have experience with Pytorch, Tensorflow and JAX.
 - **Interests**: Enthusiastic about Machine Learning 🤖 and Artificial Intelligence 🧠.
 - **Hobbies**: Enjoys reading books, particularly in the genres of technology 📚, science fiction 🚀, and horror 👻.
 
