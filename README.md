@@ -1,4 +1,4 @@
-# Arinda Majee
+# Arindam Majee
 _Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## About Me
