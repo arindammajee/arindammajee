@@ -1,15 +1,14 @@
 # Arindam Majee
-_Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
+_Software Enginner, Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
 ## About Me
 
 - **Current Position**: Currently working as a Software Development Engineer (SDE-I) at Amazon India, Banaglore. 👨🏽‍💻
 - **Previous Experience**:
-  - Completed a software development internship at Amazon India. 🚀
+  - Worked as a full time Research Assistant at IAI, TCGCREST and MLRG, ISI Kolkata and TCG CREST, specializing in Biomedical Image Processing. 🏥 🖥️
   - Worked as a part-time Research Assistant at CMATER Lab, Jadavpur University, on Medical Imaging Analysis and Evolutionary Algorithms. 💬
   - Worked as a part-time Research Assistan at AI Lab, Jadavpur University, focusing on Machine Learning. 🤖
-  - Worked as a full time Research Assistant at MLRG, ISI Kolkata and TCG CREST, specializing in Biomedical Image Processing. 🏥 🖥️
-- **Education**: Graduated with Bachelor of Engineering (B.E.) with First Class Honours in Electronics graduate from Jadavpur University (2019-2023) 🎓
+- **Education**: Graduated with Bachelor of Engineering (B.E.) with **First Class Honours** in Electronics graduate from Jadavpur University (2019-2023) 🎓
 - **Programming Languages**: Proficient in Java, JavaScript, Python, C, C++, React. Started learning GoLang.
 - **Frameworks**: Experienced in developing applications using Spring Boot 🌼 and other Spring environment frameworks. 🌸
 - **ML Frameworks**: Have experience with Pytorch, Tensorflow and JAX.
