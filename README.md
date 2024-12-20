@@ -1,6 +1,9 @@
 # Arindam Majee
 _Software Enginner, Tech Explorer, ML Enthusiast, and Avid Reader at Heart_ 🚀🤖📚
 
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=arindammajee&show_icons=true&line_height=30)
+
 ## About Me
 
 - **Current Position**: Currently working as a Software Development Engineer (SDE-I) at Amazon India, Banaglore. 👨🏽‍💻
